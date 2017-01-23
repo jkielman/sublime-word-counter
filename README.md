@@ -1,2 +1,2 @@
 # sublime-word-counter
-Word Counter for Sublime Text 3
+Word Counter Plugin for Sublime Text 3
